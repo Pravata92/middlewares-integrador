@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "id": 0
+ },
+ {
+  "id": 1,
+  "email": "juan.pravata@hotmail.com",
+  "password": "$2a$10$GBw45aSU1abT3eOuD16NrOOvjKxeBlCULZyMmemUG38vnCPfoZX.a",
+  "avatar": "1609290810144-51QdWEDWoqL.jpg"
+ }
+]
